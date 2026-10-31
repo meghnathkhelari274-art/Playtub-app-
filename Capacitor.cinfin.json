@@ -1,0 +1,6 @@
+{
+  "appId": "com.playtube.app",
+  "appName": "PlayTube",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
